@@ -1,2 +1,2 @@
-# C-21-project
-bullet checker
+# p5.play-boilerplate
+Boiler plate for p5.play
